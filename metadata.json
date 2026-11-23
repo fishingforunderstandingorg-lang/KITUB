@@ -1,0 +1,6 @@
+{
+  "name": "مُخرج الإنتاج | AI Video Production Director",
+  "description": "منصة تحليل وتفكيك الفيديوهات بالذكاء الاصطناعي إلى خطة إنتاج متكاملة بصيغة JSON للفيديوهات القصيرة والريلز.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
